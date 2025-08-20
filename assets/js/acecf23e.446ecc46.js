@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunks_4_hana=self.webpackChunks_4_hana||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/s4hana/blog","blogTitle":"Blog","authorsListPath":"/s4hana/blog/authors"}')}}]);
